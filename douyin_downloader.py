@@ -213,7 +213,7 @@ def main():
         max_workers=3        # 最多3个并发下载
     )
     
-    user_url = "https://www.douyin.com/user/MS4wLjABAAAA6bm8l96nt65CVMHV6qWcpeGzAWF5DlHmDfwadm7Tlng"
+    user_url = "https://www.douyin.com/user/{user_id}"
     
     try:
         # 获取视频列表
