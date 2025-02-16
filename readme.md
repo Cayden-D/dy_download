@@ -1,4 +1,4 @@
-# 抖音视频下载器 (Douyin Video Downloader)
+# 抖音视频下载器 (Douyin Video Downloader)（已失效，抖音接口更新了）
 
 一个用于下载抖音用户视频的Python工具，支持GUI界面操作和命令行使用。
 
